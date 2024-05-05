@@ -1,0 +1,17 @@
+name: Track link
+on:
+  schedule:
+  - cron: "55 * * * *"
+concurrency:
+  group: ${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  Tracking:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: awalsh128/cache-apt-pkgs-action@latest
+        with:
+          packages: apktool
+          version: 1.0
+      - run: bash ./track_link.sh
