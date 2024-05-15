@@ -1,10 +1,10 @@
 {
-    "PRODUCT": "null",
-    "DEVICE": "null",
-    "MANUFACTURER": "null",
-    "BRAND": "null",
-    "MODEL": "null",
-    "FINGERPRINT": "null",
-    "SECURITY_PATCH": "null",
+    "PRODUCT": "clark_retus",
+    "DEVICE": "clark",
+    "MANUFACTURER": "motorola",
+    "BRAND": "motorola",
+    "MODEL": "XT1575",
+    "FINGERPRINT": "motorola/clark_retus/clark:6.0/MPHS24.49-18-8/4:user/release-keys",
+    "SECURITY_PATCH": "2016-09-01",
     "FIRST_API_LEVEL": "null"
 }
