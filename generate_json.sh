@@ -1,5 +1,5 @@
 # get apk
-curl -fsZLo ./euapp.apk "$link"
+curl -ZLo ./euapp.apk "$link"
 aapt dump xmltree euapp.apk res/xml/inject_fields.xml > ./fields.xml
 
 # generate json
