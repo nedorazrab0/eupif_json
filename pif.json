@@ -1,10 +1,10 @@
 {
-    "PRODUCT": "clark_retus",
-    "DEVICE": "clark",
-    "MANUFACTURER": "motorola",
-    "BRAND": "motorola",
-    "MODEL": "XT1575",
-    "FINGERPRINT": "motorola/clark_retus/clark:6.0/MPHS24.49-18-8/4:user/release-keys",
-    "SECURITY_PATCH": "2016-09-01",
+    "PRODUCT": "sailfish",
+    "DEVICE": "sailfish",
+    "MANUFACTURER": "Google",
+    "BRAND": "google",
+    "MODEL": "Pixel",
+    "FINGERPRINT": "google/sailfish/sailfish:8.1.0/OPM1.171019.011/4448085:user/release-keys",
+    "SECURITY_PATCH": "2017-12-05",
     "FIRST_API_LEVEL": "null"
 }
