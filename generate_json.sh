@@ -32,6 +32,6 @@ echo '}' >> ./pif.json
 # release pif.json
 git config --global user.name 'github-actions'
 git config --global user.email 'github-actions@github.com'
-git add ./link.txt ./pif.json
+git add ./saved_link.sh ./pif.json
 git commit -m "New pif.json"
 git push
