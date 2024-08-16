@@ -1,5 +1,5 @@
 # get data
-curl --parallel-immediate --parallel-max 0 -ZLo ./euapp.apk "$link"
+curl -Lo ./euapp.apk "$link"
 aapt dump xmltree ./euapp.apk res/xml/inject_fields.xml > ./fields.txt
 
 # generate json
