@@ -5,10 +5,10 @@
     "DEVICE": "akita",
     "MODEL": "Pixel",
     "SECURITY_PATCH": "2025-02-05",
-    "FINGERPRINT": "google/akita_beta/akita:Baklava/BP22.250124.009/13034193:user/release-keys",
+    "FINGERPRINT": "google/akita_beta/akita:Baklava/BP22.250124.010/13116449:user/release-keys",
     "RELEASE": "Baklava",
-    "INCREMENTAL": "13034193",
-    "ID": "BP22.250124.009",
+    "INCREMENTAL": "13116449",
+    "ID": "BP22.250124.010",
     "TYPE": "user",
     "TAGS": "release-keys",
     "DEVICE_INITIAL_SDK_INT": "25"
